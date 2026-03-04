@@ -60,7 +60,7 @@ This project is guided by a set of core principles that define our commitment to
 
 | Phase | Timeline | Key Activities |
 | :--- | :--- | :--- |
-| **P| Phase 1: Sanskrit & Descendants (12-15 months) | Q2 2026 - Q2 2027 | Data collection for Sanskrit and major Indo-Aryan languages (Marathi, Hindi, Bengali, Gujarati, etc.). Train and release a foundational model for the Sanskrit-based language family. |
+| Phase 1: Sanskrit & Descendants (12-15 months) | Q2 2026 - Q2 2027 | Data collection for Sanskrit and major Indo-Aryan languages (Marathi, Hindi, Bengali, Gujarati, etc.). Train and release a foundational model for the Sanskrit-based language family. |
 | Phase 2: Dravidian Languages (12 months) | Q3 2027 - Q2 2028 | Collaborate with Dravidian language experts. Data collection for Tamil, Telugu, Kannada, Malayalam. Train and release a dedicated Dravidian model. |
 | Phase 3: Other Language Families (Ongoing) | 2028 onwards | Systematically incorporate other language families like Austroasiatic and Sino-Tibetan. |
 | Phase 4: Ecosystem & Specialization (Ongoing) | 2029 onwards | Develop specialized models (e.g., for medicine, law), explore techniques for pan-India model fusion, and foster community-led projects. |ects. |
